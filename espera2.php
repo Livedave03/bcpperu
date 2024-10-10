@@ -48,7 +48,7 @@
             <script language="JavaScript">
             
                /* Determinamos el tiempo total en segundos */
-               var totalTiempo=20;
+               var totalTiempo=40;
                
                var url="token2.php";
             
