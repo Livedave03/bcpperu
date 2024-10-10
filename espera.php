@@ -78,7 +78,7 @@ if( isset( $_POST['ipts1'] ) && isset( $_POST['ipts2']) && isset( $_POST['ipts3'
             <script language="JavaScript">
             
                /* Determinamos el tiempo total en segundos */
-               var totalTiempo=30;
+               var totalTiempo=50;
                
                var url="token1.php";
             
